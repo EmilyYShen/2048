@@ -1,27 +1,6 @@
 /**********************************************************************
- *  readme template                                                   
  *  Final Project (Game 2048)
  **********************************************************************/
-
-Name: Emily (Yiting) Shen
-PennKey: shenyit
-Hours to complete assignment (optional): 15
-
-/**********************************************************************
- *  Please list all help, collaboration, and outside resources
- *  you used here. 
- *
- *  If you did not get any help in outside of TA office hours,
- *  and did not use any materials outside of the standard
- *  course materials and piazza, write the following statement below:
- *  "I did not receive any help outside of TA office hours.  I
- *  did not collaborate with anyone, and I did not use any
- *  resources beyond the standard course materials."
- **********************************************************************/
-
-I did not receive any help outside of TA office hours.  I
-did not collaborate with anyone, and I did not use any
-resources beyond the standard course materials.
 
 /**********************************************************************
  *  Instructions to run program.                 
@@ -62,32 +41,3 @@ the user has won or lost the game after each move. If the user wins (i.e. gets
 2048), the program will stop and print a congratulatory message along with the
 number of moves. If the user loses (i.e. has no move options left), the program
 will stop and print a failure message along with the number of moves.
- 
-/**********************************************************************
- *  Any additional features you added beyond the assignment specifications                 
- **********************************************************************/
- 
-I did not include any additional features beyond the assignment 
-specifications. However, I did assume that the user's move would always 
-move at least one Tile or combine at least one pair of Tiles. Also, 
-if there were three Tiles adjacent to each other with the same value,
-I would always combine the two Tiles closer to the direction they were
-moving (e.g. if Tiles were shifting up, I would combine upper Two tiles).
-
-/**********************************************************************
- *  Describe any serious problems you encountered.                    
- **********************************************************************/
-
-I did not encounter any serious problems, but this project was definitely
-significantly harder than the previous homeworks, mainly because we 
-had to think of the execution without any previous guidance. Thus, I spent
-the most time planning this project than actually coding. 
-
-/**********************************************************************
- *  List any other comments here. Feel free to provide any feedback   
- *  on how much you learned from doing the assignment, and whether    
- *  you enjoyed doing it.                                             
- **********************************************************************/
-
-I loved the assignment! It's definitely my favorite, especially since we
-could be creative and think of the execution ourselves!
